@@ -13,4 +13,4 @@ We will be looking for:
 2) human simulation ( please dont Ddos us! )
 3) data structure
 
-
+We prefer to have the answers to tests submitted via pull request.
